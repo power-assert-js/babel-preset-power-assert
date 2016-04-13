@@ -1,0 +1,35 @@
+{
+  "name": "babel-preset-power-assert",
+  "description": "Babel preset for all power-assert plugins",
+  "version": "0.0.1",
+  "author": {
+    "name": "Takuto Wada",
+    "email": "takuto.wada@gmail.com",
+    "url": "https://github.com/twada"
+  },
+  "bugs": "https://github.com/twada/babel-preset-power-assert/issues",
+  "dependencies": {
+    "babel-plugin-empower-assert": "^1.2.0",
+    "babel-plugin-espower": "^2.1.2"
+  },
+  "files": [
+    "README.md",
+    "CHANGELOG.md",
+    "index.js",
+    "package.json"
+  ],
+  "homepage": "https://github.com/twada/babel-preset-power-assert",
+  "keywords": [
+    "assert",
+    "babel",
+    "babel-plugin",
+    "babel-preset",
+    "power-assert"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/twada/babel-preset-power-assert.git"
+  }
+}
