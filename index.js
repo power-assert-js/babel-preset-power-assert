@@ -2,7 +2,7 @@
  * babel-preset-power-assert
  *   Babel preset for all power-assert plugins
  * 
- * https://github.com/twada/babel-preset-power-assert
+ * https://github.com/power-assert-js/babel-preset-power-assert
  *
  * Copyright (c) 2016 Takuto Wada
  * Licensed under the MIT license.

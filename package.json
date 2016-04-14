@@ -7,7 +7,7 @@
     "email": "takuto.wada@gmail.com",
     "url": "https://github.com/twada"
   },
-  "bugs": "https://github.com/twada/babel-preset-power-assert/issues",
+  "bugs": "https://github.com/power-assert-js/babel-preset-power-assert/issues",
   "dependencies": {
     "babel-plugin-empower-assert": "^1.2.0",
     "babel-plugin-espower": "^2.1.2"
@@ -18,7 +18,7 @@
     "index.js",
     "package.json"
   ],
-  "homepage": "https://github.com/twada/babel-preset-power-assert",
+  "homepage": "https://github.com/power-assert-js/babel-preset-power-assert",
   "keywords": [
     "assert",
     "babel",
@@ -30,6 +30,6 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/twada/babel-preset-power-assert.git"
+    "url": "https://github.com/power-assert-js/babel-preset-power-assert.git"
   }
 }
