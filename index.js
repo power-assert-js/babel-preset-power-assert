@@ -6,7 +6,7 @@
  *
  * Copyright (c) 2016 Takuto Wada
  * Licensed under the MIT license.
- *   http://twada.mit-license.org/
+ *   https://github.com/power-assert-js/babel-preset-power-assert/blob/master/LICENSE
  */
 'use strict';
 
