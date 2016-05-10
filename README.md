@@ -7,6 +7,12 @@
 `babel-preset-power-assert` is a [Babel](https://babeljs.io/) preset for all [power-assert](https://github.com/power-assert-js/power-assert) plugins.
 
 
+`babel-preset-power-assert` contains plugins below
+
+- [babel-plugin-empower-assert](https://github.com/power-assert-js/babel-plugin-empower-assert): Babel plugin to convert assert to power-assert at compile time
+- [babel-plugin-espower](https://github.com/power-assert-js/babel-plugin-espower): Babel plugin for power-assert
+
+
 INSTALL
 ---------------------------------------
 
