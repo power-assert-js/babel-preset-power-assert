@@ -17,7 +17,7 @@ INSTALL
 ---------------------------------------
 
 ```
-$ npm install --save-dev babel-preset-power-assert
+$ npm install --save-dev babel-preset-power-assert power-assert
 ```
 
 
