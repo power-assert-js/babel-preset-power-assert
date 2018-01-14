@@ -29,7 +29,7 @@ HOW TO USE
 ```javascript
 {
   "presets": [
-    "babel-preset-power-assert"
+    "power-assert"
   ]
 }
 ```
@@ -37,7 +37,7 @@ HOW TO USE
 ### via [Babel CLI](http://babeljs.io/docs/usage/cli/)
 
 ```
-$ babel --presets babel-preset-power-assert /path/to/src/target.js > /path/to/build/target.js
+$ babel --presets power-assert /path/to/src/target.js > /path/to/build/target.js
 ```
 
 ### via [Babel API](http://babeljs.io/docs/usage/api/)
@@ -46,7 +46,7 @@ $ babel --presets babel-preset-power-assert /path/to/src/target.js > /path/to/bu
 var babel = require('babel-core');
 var jsCode = fs.readFileSync('/path/to/src/target.js');
 var transformed = babel.transform(jsCode, {
-    presets: ['babel-preset-power-assert']
+    presets: ['power-assert']
 });
 console.log(transformed.code);
 ```
