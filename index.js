@@ -4,7 +4,7 @@
  * 
  * https://github.com/power-assert-js/babel-preset-power-assert
  *
- * Copyright (c) 2016 Takuto Wada
+ * Copyright (c) 2016-2018 Takuto Wada
  * Licensed under the MIT license.
  *   https://github.com/power-assert-js/babel-preset-power-assert/blob/master/LICENSE
  */
