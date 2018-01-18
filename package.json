@@ -1,7 +1,7 @@
 {
   "name": "babel-preset-power-assert",
   "description": "Babel preset for all power-assert plugins",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "author": {
     "name": "Takuto Wada",
     "email": "takuto.wada@gmail.com",
