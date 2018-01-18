@@ -12,6 +12,11 @@
     "babel-plugin-empower-assert": "^1.2.0",
     "babel-plugin-espower": "^2.4.0"
   },
+  "devDependencies": {
+    "babel-core": "^6.0.0",
+    "babel-preset-react": "^6.0.0",
+    "mocha": "^4.0.0"
+  },
   "files": [
     "README.md",
     "CHANGELOG.md",
@@ -32,5 +37,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/power-assert-js/babel-preset-power-assert.git"
+  },
+  "scripts": {
+    "test": "mocha --timeout 0"
   }
 }
