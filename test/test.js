@@ -4,7 +4,7 @@ var powerAssertPreset = require('..');
 var assert = require('assert');
 var fs = require('fs');
 var path = require('path');
-var babel = require('babel-core');
+var babel = require('@babel/core');
 
 function testTransform (fixtureName, extraSuffix, extraOptions) {
     it(fixtureName, function () {
@@ -14,7 +14,7 @@ function testTransform (fixtureName, extraSuffix, extraOptions) {
         var actualFilepath = path.resolve(__dirname, 'fixtures', fixtureName, 'actual' + suffix + '.js');
         var result = babel.transformFileSync(fixtureFilepath, Object.assign({
             presets: [
-                'react',
+                '@babel/react',
                 powerAssertPreset
             ]
         }, extraOptions));

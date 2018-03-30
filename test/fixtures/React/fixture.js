@@ -1,5 +1,5 @@
 import React from 'react';
-import assert from 'power-assert';
+import assert from 'assert';
 import { shallow, mount } from 'enzyme';
 import * as sinon from 'sinon';
 import Foo from '../src/Foo';
