@@ -13,6 +13,6 @@
 module.exports = {
     plugins: [
         require('babel-plugin-empower-assert'),
-        require('babel-plugin-espower/with-experimental-syntax')
+        require('babel-plugin-espower')
     ]
 };
