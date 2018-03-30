@@ -22,6 +22,18 @@ $ npm install --save-dev babel-preset-power-assert power-assert
 ```
 
 
+CAUTION
+---------------------------------------
+
+Babel7 is incompatible with Babel6.
+
+For Babel6, you need to use [the 2.x release of babel-preset-power-assert](https://github.com/power-assert-js/babel-preset-power-assert/tree/v2.0.0).
+
+```
+$ npm install --save-dev babel-preset-power-assert@2.0.0
+```
+
+
 HOW TO USE
 ---------------------------------------
 
