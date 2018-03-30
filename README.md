@@ -44,7 +44,7 @@ $ babel --presets power-assert /path/to/src/target.js > /path/to/build/target.js
 ### via [Babel API](http://babeljs.io/docs/usage/api/)
 
 ```javascript
-var babel = require('babel-core');
+var babel = require('@babel/core');
 var jsCode = fs.readFileSync('/path/to/src/target.js');
 var transformed = babel.transform(jsCode, {
     presets: ['power-assert']
