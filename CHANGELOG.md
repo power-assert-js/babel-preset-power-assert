@@ -1,3 +1,22 @@
+## [3.0.0](https://github.com/power-assert-js/babel-preset-power-assert/releases/tag/v3.0.0) (2018-08-30)
+
+
+#### Features
+
+* Babel7 support
+
+
+#### Breaking Changes
+
+* Babel7 is incompatible with Babel6.
+
+For Babel6, you need to use [the 2.x release of babel-preset-power-assert](https://github.com/power-assert-js/babel-preset-power-assert/tree/v2.0.0).
+
+```
+$ npm install --save-dev babel-preset-power-assert@2.0.0
+```
+
+
 ## [3.0.0-beta.1](https://github.com/power-assert-js/babel-preset-power-assert/releases/tag/v3.0.0-beta.1) (2018-03-31)
 
 
