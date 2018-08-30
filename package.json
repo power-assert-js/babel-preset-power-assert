@@ -9,13 +9,13 @@
   },
   "bugs": "https://github.com/power-assert-js/babel-preset-power-assert/issues",
   "dependencies": {
-    "@babel/helper-plugin-utils": "^7.0.0-beta.42",
-    "babel-plugin-empower-assert": "^2.0.0-beta.1",
-    "babel-plugin-espower": "^3.0.0-beta.1"
+    "@babel/helper-plugin-utils": "^7.0.0",
+    "babel-plugin-empower-assert": "^2.0.0",
+    "babel-plugin-espower": "^3.0.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.0.0-beta.42",
-    "@babel/preset-react": "^7.0.0-beta.42",
+    "@babel/core": "^7.0.0",
+    "@babel/preset-react": "^7.0.0",
     "mocha": "^5.0.0"
   },
   "files": [
